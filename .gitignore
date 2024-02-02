@@ -1,0 +1,9 @@
+.vscode/
+
+models/*
+
+__pycache__
+.ipynb_checkpoints
+
+notebooks/*
+!notebooks/*.ipynb
